@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<soap:Envelope xmlns="http://schemas.xmlsoap.org/soap/envelope/">
+    <soap:Body dvx="http://localhost/uri">
+        <dvx:GetMailbox>
+            <dvx:MailboxNumber>8000</dvx:MailboxNumber>
+            <dvx:FirstName>Jhun</dvx:FirstName>
+            <dvx:LastName>Alonzo</dvx:LastName>
+        </dvx:GetMailbox>
+    </soap:Body>
+</soap:Envelope >
+
